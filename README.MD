@@ -1,6 +1,7 @@
-👋 Hi, I’m Matt(Dongnyuk) Kim!<br>
+Hi, I’m Matt!<br>
 Thank you for visiting my github.<br>
 I studied at LightHouseLab for Web Development Bootcamp Program Nov 2021 ~ Feb 2022
+currently I am working for Equinox Engineering as a Web developer since June 2022
 
 <h3>Languages</h3>
 Javascript, Ruby, CSS, HTML
