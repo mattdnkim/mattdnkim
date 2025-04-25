@@ -1,16 +1,18 @@
-Hi, I’m Matt! 👋<br>
-Thanks for stopping by my GitHub.<br>
+Hi, I’m Matt! 👋
+Thanks for checking out my GitHub.
 
-I completed the Web Development Bootcamp at Lighthouse Labs (Nov 2021 – Feb 2022), where I honed my skills in full-stack development. <br>
-From June 2022 to April 2025, I’ve worked as a Fullstack Web Developer at Equinox Engineering, building and maintaining web applications that make an impact.
+I completed the Web Development Bootcamp at Lighthouse Labs (Nov 2021 – Feb 2022), where I developed a strong foundation in full-stack development. Since June 2022, I've been working as a Fullstack Web Developer at Equinox Engineering, building and maintaining impactful web applications.
 
+Most recently, I built Etude — a minimalist classical music radio that streams curated pieces around the clock. It’s a passion project that blends clean design with a love for timeless music.
 
+🧠 Languages
+TypeScript, JavaScript, Ruby, CSS, HTML
 
-<h3>Languages</h3>
-Typescript, Javascript, Ruby, CSS, HTML
-<h3>Environments</h3>
-Vue.js, Nest.js, Node.js, React.js, Ajax, Express, JQuery, Bootstrap, Tailwind, Activerecord, React Native, Rails, SASS, 
-<h3>Testing</h3> 
+🛠️ Frameworks & Libraries
+Vue.js, React.js, React Native, Nest.js, Node.js, Express, Ajax, jQuery, Bootstrap, Tailwind, SASS, Rails, ActiveRecord
+
+🧪 Testing
 Storybook, Cypress, RSpec, Jest, Mocha, Chai
-<h3>Systems, CMS, AND Databases</h3>
+
+🗃️ Tools & Databases
 SQL, Git
