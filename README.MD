@@ -6,7 +6,7 @@ I completed the Web Development Bootcamp at Lighthouse Labs (Nov 2021 – Feb 20
 Most recently, I built Etude — a minimalist classical music radio that streams curated pieces around the clock. It’s a passion project that blends clean design with a love for timeless music. [Etude](https://viewetude.netlify.app)
 
 NeighbourGuessr is a location-guessing web game inspired by GeoGuessr, but designed specifically for Calgarians. Players are dropped into a random Google Street View location within Calgary and try to guess where they are on the map.
-[NeighbourGuessr] (https://neighbourguessr.netlify.app)
+[NeighbourGuessr](https://neighbourguessr.netlify.app)
 
 🧠 Languages
 TypeScript, JavaScript, Ruby, CSS, HTML
